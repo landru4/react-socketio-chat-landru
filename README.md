@@ -1,14 +1,12 @@
-My New App
+react-socket.io-chat
 ==========
 
-Este es el README de mi nueva aplicación MyNewApp.
+This project is an example with react, socket.io, redux, express.
 
-Este fichero se usa de ejemplo dentro del blog de aprendegit.com para crear un primer repositorio.
-
-Ejemplos de markdown
+Esta seccion esta en construccion
 --------------------
 
-Así se crean secciones y subsecciones. Para crear una enumeración utilizamos:
+Se disponen de las siguientes funcionalidades:
 + Elemento 1
 + Elemento 2
 + Elemento 3
