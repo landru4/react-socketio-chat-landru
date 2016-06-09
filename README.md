@@ -1,4 +1,4 @@
-react-socket.io-chat
+# react-socket.io-chat
 ==========
 
 This project is an example with react, socket.io, redux, express.
