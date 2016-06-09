@@ -1,0 +1,5 @@
+export const CONNECT_USR = 'CONNECT_USR'
+export const DISCONNECT_USR = 'DISCONNECT_USR'
+export const SEND_MSJ = 'SEND_MSJ'
+export const RECEIVE_MSJ = 'RECEIVE_MSJ'
+export const TYPING_USR = 'TYPING_USR'
