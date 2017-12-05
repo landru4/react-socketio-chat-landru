@@ -17,6 +17,7 @@
     "node": "6.11.0"
   },
   "scripts": {
+    "start": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
