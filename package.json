@@ -2,7 +2,7 @@
   "name": "react-socketio-chat-landru",
   "version": "1.0.0",
   "description": "Chat using react-socketio",
-  "main": "index.js",
+  "main": "/reducers/index.js",
   "dependencies": {},
   "devDependencies": {
     "babel": "^6.5.2",
